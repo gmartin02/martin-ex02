@@ -1,16 +1,16 @@
 /*
- * UCF COP3330 Fall 2021 Exercise 1 Solution
+ * UCF COP3330 Fall 2021 Assignment 2 Solution
  * Copyright 2021 Gabriel Martin
  */
 
 /*
  * Import the Scanner library
- * new Scanner = 'input'
+ * 'input' = new Scanner
  * prompt the user to input any string
- * 'userInput' = the string the user inputs
+ * 'userInput' = the string from user
  * use the length() method to get length of 'userInput'
- * 'length' = length of 'userInput'
- * print the 'userInput' and 'length' using concatenation in the print statement
+ * 'length' = userInput.length()
+ * print 'userInput' and 'length' using concatenation
  */
 
 import java.util.Scanner;
